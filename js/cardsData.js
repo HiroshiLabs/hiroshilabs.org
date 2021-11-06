@@ -40,8 +40,8 @@ let cardsData = [{
     name: 'leonardtk',
     social: {
         website: 'https://mateochz.com',
-    				github: "https://github.com/LeonardTK",
-    				ig: "https://www.instagram.com/rip.leonardocg",
+    				github: "https://github.com/LeonardSx",
+    				ig: "https://www.instagram.com/mat.nya_",
     				discord_id: "624354017908359218"
     },
     title: 'Leonard TK',
