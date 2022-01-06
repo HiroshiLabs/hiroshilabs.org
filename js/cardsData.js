@@ -9,7 +9,7 @@ let cardsData = [{
         website: 'https://irtradil.me',
     				github: "https://github.com/irtradil",
     				ig: "https://instagram.com/irtradil.me",
-    				discord_id: "361175641032491010"
+    				discord_id: "0"
     },
     email: 'irtradil@hiroshilabs.com'
   },
